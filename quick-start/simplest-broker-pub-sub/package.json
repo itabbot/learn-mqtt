@@ -1,0 +1,8 @@
+{
+  "name": "simplest-broker-pub-sub",
+  "author": "itabbot@qq.com",
+  "dependencies": {
+    "aedes": "^0.50.0",
+    "mqtt": "^5.0.2"
+  }
+}
