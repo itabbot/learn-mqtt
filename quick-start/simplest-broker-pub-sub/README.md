@@ -20,4 +20,6 @@ $ node client.js
 
 ```shell
 $ curl mqtt://127.0.0.1:1883/test/topic -d 1234
+# 订阅者输出：
+收到消息： test/topic 1234
 ```
